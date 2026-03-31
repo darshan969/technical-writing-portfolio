@@ -11,20 +11,20 @@ How To Use Docker Logs to Debug Containers
 [https://docs.vultr.com/how-to-use-docker-logs-to-view-and-filter-container-output](https://docs.vultr.com/how-to-use-docker-logs-to-debug-containers)
 
 How to Install Composer with PHP  
-https://docs.vultr.com/how-to-install-composer-with-php
+[https://docs.vultr.com/how-to-install-composer-with-php](https://docs.vultr.com/how-to-install-composer-with-php)
 
-How to Push Changes in Git  
-https://docs.vultr.com/how-to-push-changes-in-git
+How to Deploy Plausible Analytics – Self-Hosted Web Analytics Platform  
+[https://docs.vultr.com/how-to-push-changes-in-git](https://docs.vultr.com/how-to-deploy-plausible-analytics-self-hosted-web-analytics-platform)
 
 ---
 
 ## Author Profiles
 
 Vultr Docs Author Page  
-https://docs.vultr.com/author/darshan-siroya
+[https://docs.vultr.com/author/darshan-siroya](https://docs.vultr.com/author/darshan-siroya)
 
 CSS-Tricks Author Page  
-https://css-tricks.com/author/darshan-siroya
+[https://css-tricks.com/author/darshan-siroya](https://css-tricks.com/author/darshansiroya/)
 
 ---
 
