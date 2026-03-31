@@ -14,7 +14,7 @@ How to Install Composer with PHP
 [https://docs.vultr.com/how-to-install-composer-with-php](https://docs.vultr.com/how-to-install-composer-with-php)
 
 How to Deploy Plausible Analytics – Self-Hosted Web Analytics Platform  
-[https://docs.vultr.com/how-to-push-changes-in-git](https://docs.vultr.com/how-to-deploy-plausible-analytics-self-hosted-web-analytics-platform)
+[https://docs.vultr.com/how-to-deploy-plausible-analytics-self-hosted-web-analytics-platform](https://docs.vultr.com/how-to-deploy-plausible-analytics-self-hosted-web-analytics-platform)
 
 ---
 
